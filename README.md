@@ -5,10 +5,7 @@ This is the home page of my website.
 
 ![Capture](https://user-images.githubusercontent.com/78898449/169700384-d9e74332-7674-4c47-a88d-33c1c857a1d2.PNG)
 
-This is the link to my website. You may have a look.
+Below is the link to my website. Go and check it out.
 
 https://sadityapratap52.wixsite.com/website
 
-The work is still in progress...
-
-Thankyou...
