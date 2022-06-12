@@ -14,4 +14,4 @@ Below is the link to my website. Go and check it out.
 https://sadityapratap52.wixsite.com/website
 
 Link to demo video-
-https://vimeo.com/719571278
+https://vimeo.com/719575257
